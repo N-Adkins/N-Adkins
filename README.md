@@ -1,16 +1,16 @@
 # [Noah Adkins]
 
-**Software Engineer**
+**About me**
 
-I am a software developer focused on systems programming and backend architecture. My primary tech stack revolves around **C++**, **Python**, and **Rust**.
+I am a software developer focused on systems programming and backend architecture. My primary tech stack revolves around **C**, **C++**, **Python**, and **Rust**.
 
-I am currently seeking full-time Software Developer / Software Engineer positions. 
+I am currently a full-time Software Developer / Software Engineer position. 
 
 ---
 
 ### Technical Proficiencies
 
-*   **Languages:** C++, C, Python, Rust, JS/TS, Dart
+*   **Languages:** C, C++, Python, Rust, JS/TS, Dart
 *   **Infrastructure & Tools:** Linux, Git, Docker, CMake, Flutter, React, CI/CD
 
 ---
