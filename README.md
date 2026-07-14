@@ -1,5 +1,3 @@
-# [Noah Adkins]
-
 **About me**
 
 I am a software developer focused on systems programming and backend architecture. My primary tech stack revolves around **C**, **C++**, **Python**, and **Rust**.
